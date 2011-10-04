@@ -1,4 +1,4 @@
 #!/bin/sh
 
-install_template "rsync/.rsyncrc" to "${HOME}/.rsyncrc" mode 0644
+install_template "rsync/rsyncrc" to "${HOME}/.rsyncrc" mode 0644
 

@@ -1,2 +1,4 @@
-version=3.0.8
-base_url=http://rsync.samba.org/ftp/rsync
+version=3.0.9
+base_url=http://rsync.samba.org/ftp/rsync/src
+website_url=http://rsync.samba.org/
+documentation_url=http://rsync.samba.org/documentation.html
